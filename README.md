@@ -1,6 +1,6 @@
 # Tile
 
-### Tile is an Open-Source "Zigbee Green Power" Switch based on ESP32C6.
+### Tile is an Open-Source "ZigBee Green Power" Switch based on ESP32C6.
 
 <img
   alt="image"
