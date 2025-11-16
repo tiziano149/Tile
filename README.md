@@ -1,12 +1,12 @@
 # Tile
 
 ### Tile is an Open-Source "ZigBee Green Power" Switch based on ESP32C6.
+<br>
 
 <img
   alt="image"
-  src="https://github.com/user-attachments/assets/72ae778c-4b49-49b8-8b25-f1e546bfc732"
+  src="https://github.com/user-attachments/assets/2eba91fb-b7d3-4d55-8e6a-ac9fb55624f7"
   width="100%"
-  style="border-radius:12px"
 />
 <br>
 Concept Rendering with future 9-Key version
@@ -61,7 +61,6 @@ Further steps include adapting the project to Silicon Labs EFR32MG24 Multiprotoc
   alt="Generated Image November 16, 2025 - 2_39PM"
   src="https://github.com/user-attachments/assets/808c6425-224c-4034-9d6f-7be4a3310295"
   width="49%"
-  style="border-radius:12px"
 /><img
   alt=""
   src="no"
@@ -71,7 +70,6 @@ Further steps include adapting the project to Silicon Labs EFR32MG24 Multiprotoc
   alt="Generated Image November 16, 2025 - 2_40PM"
   src="https://github.com/user-attachments/assets/8ce0b259-455f-4d94-ab5b-f54110822796"
   width="49%"
-  style="border-radius:12px"
 />
 <br>
 Concept Rendering of 4-Key version
