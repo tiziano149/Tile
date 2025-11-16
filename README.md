@@ -29,7 +29,7 @@ Concept Rendering with future 9-Key version
 
 ## What does it currently do?
 
-The code (found in /main/esp_zigbee_gpd.c) sets up the ESP32C6 as a "ZigBee Green Power Device" 4-Way switch simulating an EnOcean PTM 215Z, commonly used in "Friends of Hue" / "Works with Hue" Switches.
+The code (found in main/esp_zigbee_gpd.c) sets up the ESP32C6 as a "ZigBee Green Power Device" 4-Way switch simulating an EnOcean PTM 215Z, commonly used in "Friends of Hue" / "Works with Hue" Switches.
 
 On boot, after pressing the Pushbutton on the ESP32C6, the commisioning routine is started, simulating the 10s press of the lower right key, followed by a double key press 2s later to confirm the commision.
 
