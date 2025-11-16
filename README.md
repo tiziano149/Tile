@@ -61,7 +61,7 @@ Further steps include adapting the project to Silicon Labs EFR32MG24 Multiprotoc
   src="https://github.com/user-attachments/assets/808c6425-224c-4034-9d6f-7be4a3310295"
   width="49%"
 /><img
-  alt="Generated Image November 16, 2025 - 2_40PM"
+  alt=""
   src="no"
   width="2"
 />
