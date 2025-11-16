@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/CMakeFiles/bootloader
+/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/CMakeFiles/bootloader.rule
+/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/CMakeFiles/bootloader-complete.rule
+/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

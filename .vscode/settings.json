@@ -1,0 +1,16 @@
+{
+  "idf.port": "/dev/tty.usbmodem1101",
+  "idf.openOcdConfigs": [
+    "board/esp32c6-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32c6"
+  },
+  "clangd.path": "/Users/tizianoerlichman/.espressif/tools/esp-clang/esp-19.1.2_20250312/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=/Users/tizianoerlichman/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20241119/riscv32-esp-elf/bin/riscv32-esp-elf-gcc",
+    "--compile-commands-dir=/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build"
+  ],
+  "idf.flashType": "JTAG"
+}

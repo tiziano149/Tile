@@ -1,0 +1,182 @@
+# ninja log v6
+4	74	1763217748828575456	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_lock.c.obj	9e4aba9192d504a3
+5	75	1763217748829572580	esp-idf/log/CMakeFiles/__idf_log.dir/src/util.c.obj	b55a632d9ba83670
+4	86	1763217748828979789	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/util.c.obj	8d3e45f69ded5c91
+9	92	1763217748833626038	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	67f6900866ec35e0
+6	95	1763217748830517205	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_print.c.obj	dec95c8c00a575a7
+5	97	1763217748829884622	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_format_text.c.obj	cfee3818028cd00
+11	103	1763217748835623079	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	d49015c6644dd15f
+3	105	1763217748828080622	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_timestamp.c.obj	af8a4fcbcbfa0b77
+4	106	1763217748828347497	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_timestamp_common.c.obj	916101d7884f7868
+6	109	1763217748830921538	esp-idf/log/CMakeFiles/__idf_log.dir/src/log.c.obj	92192b45f1ac2504
+11	114	1763217748835465329	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_uart.c.obj	94d5271125b6f5c6
+7	123	1763217748831546247	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	8594ffb4e59a9a4f
+4	140	1763217748828801247	esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer/log_buffers.c.obj	3744266effb00478
+75	154	1763217748899537607	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	83fa916c890632db
+75	155	1763217748899982482	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_gpio.c.obj	1ca77bf50b047c65
+98	186	1763217748922311977	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_usb_serial.c.obj	104e5ece091255b8
+92	195	1763217748916918020	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_systimer.c.obj	5ec30eca76e506f3
+86	202	1763217748911204563	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_hp_regi2c_esp32c6.c.obj	7fce7bfe20b0f84d
+7	205	1763217748832141788	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_print.c.obj	4da42e163ad5a9ef
+111	223	1763217748935289807	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj	bab378879d4e86e1
+106	239	1763217748930410642	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c6/esp_cpu_intr.c.obj	807a0978619e5eda
+141	246	1763217748965522300	esp-idf/log/liblog.a	12e66d2d23e6d7a
+105	270	1763217748929954725	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj	3721f591cce3b194
+114	286	1763217748938887557	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c6/cpu_region_protect.c.obj	7e8578057f98cef5
+96	298	1763217748920528602	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_wdt.c.obj	6738b9668b2562cd
+104	305	1763217748928647851	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	1fa26971003a810f
+155	308	1763217748979574297	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c6/pmu_param.c.obj	bc4bee419d9379bc
+206	314	1763217749030765577	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c6/chip_info.c.obj	4c6737131cfa2bb5
+239	324	1763217749064210486	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	34e25210d196cba8
+123	332	1763217748948008721	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c6/rtc_clk_init.c.obj	f1fbba775ddd9e8d
+270	367	1763217749094766604	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c6/esp_efuse_fields.c.obj	d16d43c191cdabaa
+224	371	1763217749048358823	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c6/ocode_init.c.obj	678f5b2b569be80f
+202	373	1763217749027238578	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c6/rtc_time.c.obj	803785c9519ea1fc
+299	392	1763217749123454681	esp-idf/esp_rom/libesp_rom.a	496c5df7e433486c
+246	395	1763217749071101693	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c6/esp_efuse_table.c.obj	1375367678f4d63a
+286	411	1763217749110363309	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c6/esp_efuse_rtc_calib.c.obj	618a1d3a14a514af
+392	445	1763217749216464910	esp-idf/esp_common/libesp_common.a	eb78aead33ed5075
+314	454	1763217749138512178	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	86869179df598def
+186	463	1763217749010975415	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c6/pmu_init.c.obj	aa920ff388c30b03
+395	476	1763217749219821368	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	53cac2475e6e0e6
+373	482	1763217749197861581	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	cb7a34d6d96772de
+324	483	1763217749148666675	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	d6bafb580720447c
+411	521	1763217749235749489	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	b8ff4a03040bf2ca
+306	529	1763217749130371596	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c6/esp_efuse_utility.c.obj	926afacdf98dd25b
+445	533	1763217749269692231	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj	434a5c744f8d5361
+308	534	1763217749132938054	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	d76ac11008ffa664
+463	543	1763217749287921602	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	36069dfa4233fdb5
+371	554	1763217749196015123	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	53d51d80aa85816d
+367	571	1763217749192050624	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	96491fecd71b826d
+476	585	1763217749300711682	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32c6.c.obj	ddf232dc8942e650
+455	590	1763217749279286687	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	d063161f6a01ed89
+195	600	1763217749019578788	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c6/pmu_sleep.c.obj	1bb7a2f9372a29a5
+154	607	1763217748979003714	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c6/rtc_clk.c.obj	18f0c2aa10ec2b4b
+484	622	1763217749309176889	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj	1253976829f47499
+543	627	1763217749367915334	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_sha.c.obj	fc86ad73e252b8bf
+554	628	1763217749379052915	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c6/bootloader_ecdsa.c.obj	2477f93e2af41f91
+585	657	1763217749409618116	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj	85c71209fdf9cf33
+533	683	1763217749357616086	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	45cc780778e62e91
+600	685	1763217749424546363	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj	efb7548c00012213
+622	691	1763217749446391108	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c6/bootloader_soc.c.obj	81dc606297b49e43
+607	696	1763217749432064153	esp-idf/esp_hw_support/libesp_hw_support.a	8c02654320f20a11
+590	704	1763217749415004948	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj	89374bd1316dd6f0
+332	717	1763217749156738840	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes/esp_efuse_api_key.c.obj	15d3fbac69823fb6
+628	730	1763217749453083356	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj	ef8e99129ac3e690
+657	733	1763217749481451058	esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.obj	3f49c230d8b5a71
+521	745	1763217749345566047	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32c6.c.obj	209380dd78401601
+691	752	1763217749515441050	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	cbefc2a9625ca8c9
+696	757	1763217749520769841	esp-idf/esp_system/libesp_system.a	ea36bcee5ea20bb9
+717	765	1763217749541857544	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/interrupts.c.obj	3bdfff5149396127
+705	767	1763217749529295589	esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj	6992632a71576bac
+730	783	1763217749555099041	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/gpio_periph.c.obj	8282086347d30bb3
+745	797	1763217749570260496	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/adc_periph.c.obj	f6adb46dc65896c5
+733	799	1763217749557461666	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/uart_periph.c.obj	52495e00a2cf2aa4
+752	806	1763217749576413536	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/dedic_gpio_periph.c.obj	c5105181a41c4c88
+683	817	1763217749507592385	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj	dd82b6caff1134d3
+765	821	1763217749590085367	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/etm_periph.c.obj	1bd8eecf6ec2c2ce
+757	827	1763217749581708577	esp-idf/efuse/libefuse.a	d113a4a8150c810
+767	827	1763217749591686741	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/gdma_periph.c.obj	d8877a960ca09366
+571	848	1763217749395395953	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj	2d0839f97abb870d
+799	858	1763217749623369067	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/ledc_periph.c.obj	78cb3815b5934aa2
+817	863	1763217749641841147	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/sdm_periph.c.obj	aad8630c0bd626a2
+627	867	1763217749451632607	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c6/bootloader_esp32c6.c.obj	9d99ea33704dfaaf
+783	868	1763217749607518363	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/spi_periph.c.obj	836a809816824917
+799	870	1763217749623825317	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/pcnt_periph.c.obj	3bd7ea7f82af8311
+806	872	1763217749630336566	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/rmt_periph.c.obj	cd7a4a64e4f66e14
+821	874	1763217749645539187	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/i2s_periph.c.obj	88633e541bdefe7b
+827	880	1763217749651410144	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/i2c_periph.c.obj	d34ab5b2578eb299
+827	880	1763217749651797686	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/temperature_sensor_periph.c.obj	717d14138ab93d34
+858	915	1763217749683126721	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/parlio_periph.c.obj	258f222613f35d57
+482	920	1763217749306417806	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj	f298e5f1a91a213a
+848	921	1763217749673744306	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/timer_periph.c.obj	6b118dd1b7e9516f
+872	922	1763217749697264426	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/ieee802154_periph.c.obj	c9de6f8c8b45c497
+863	933	1763217749687796969	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/mcpwm_periph.c.obj	5e54d98d859901c2
+870	939	1763217749694625385	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/wdt_periph.c.obj	c1b354a8b86ec247
+868	939	1763217749692735052	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/twai_periph.c.obj	c6b33eef694b8e06
+874	940	1763217749699201259	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/rtc_io_periph.c.obj	77e0c7a81eb48f06
+867	942	1763217749691679177	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/mpi_periph.c.obj	343191892d81988a
+880	950	1763217749705223924	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/system_retention_periph.c.obj	9a302d047bdc00eb
+880	951	1763217749704705507	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/sdio_slave_periph.c.obj	4ad507aab496b036
+942	963	1763217749784674364	project_elf_src_esp32c6.c	63cf7a1048299718
+942	963	1763217749784674364	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/project_elf_src_esp32c6.c	63cf7a1048299718
+915	967	1763217749740242457	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c6/power_supply_periph.c.obj	7e5db861f01aec48
+920	992	1763217749744577623	esp-idf/riscv/CMakeFiles/__idf_riscv.dir/rv_utils.c.obj	3277720bd02a45be
+963	1002	1763217749787373322	CMakeFiles/bootloader.elf.dir/project_elf_src_esp32c6.c.obj	216d88a41266b08d
+922	1014	1763217749746496664	esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj	f9bf6919be51b950
+939	1015	1763217749763769035	esp-idf/hal/CMakeFiles/__idf_hal.dir/lp_timer_hal.c.obj	1f7f132801725bdd
+950	1019	1763217749774867241	esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj	1571caed6e573531
+933	1022	1763217749758149287	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32c6/efuse_hal.c.obj	eaf9806da11f1e71
+922	1023	1763217749746994664	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	b8c6068212454728
+529	1043	1763217749354053962	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	24624e6c319912da
+940	1047	1763217749764778494	esp-idf/hal/CMakeFiles/__idf_hal.dir/cache_hal.c.obj	fae082cc948c71d0
+534	1048	1763217749358316044	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	3b0962dc9bfaa857
+940	1061	1763217749764279869	esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj	ef6eaf28a07e417f
+1048	1116	1763217749872575302	esp-idf/bootloader_support/libbootloader_support.a	2f02481b98a0d871
+1116	1144	1763217749940897955	esp-idf/esp_bootloader_format/libesp_bootloader_format.a	b0855375ce19fac7
+1144	1170	1763217749968655073	esp-idf/spi_flash/libspi_flash.a	aaa168d3108c802b
+685	1198	1763217749510025593	esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj	e793e8f01ea8e54b
+1199	1228	1763217750023335727	esp-idf/micro-ecc/libmicro-ecc.a	bdd63b60b2735e5e
+1228	1304	1763217750052444804	esp-idf/soc/libsoc.a	d499592a59d9c096
+1304	1331	1763217750128759787	esp-idf/riscv/libriscv.a	bd0b8fa26306fadc
+1331	1366	1763217750155610572	esp-idf/hal/libhal.a	e4283cb64b9ba618
+1366	1392	1763217750190609231	esp-idf/main/libmain.a	a40ff3c360f18cc6
+1392	1439	1763217750216376058	bootloader.elf	e2646318569bc1c9
+1439	1560	1763217750384143437	.bin_timestamp	913614996be7d01e
+1439	1560	1763217750384143437	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/.bin_timestamp	913614996be7d01e
+1560	1610	1763217750384888937	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+1560	1610	1763217750384888937	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+14	69	1763219084463401903	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+14	69	1763219084463401903	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	53	1763220178840461971	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	53	1763220178840461971	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+13	62	1763222868446671552	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+13	62	1763222868446671552	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+13	62	1763226348393605198	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+13	62	1763226348393605198	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+7	55	1763227508449077650	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+7	55	1763227508449077650	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+14	61	1763229850955643880	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+14	61	1763229850955643880	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	49	1763229936219719952	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	49	1763229936219719952	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	52	1763230185673384429	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	52	1763230185673384429	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+8	56	1763231931859325150	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+8	56	1763231931859325150	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+4	58	1763232657363375025	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+4	58	1763232657363375025	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	53	1763233155800343563	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	53	1763233155800343563	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	55	1763233762988629665	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	55	1763233762988629665	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+4	51	1763234203798714101	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+4	51	1763234203798714101	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	54	1763234365349577311	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	54	1763234365349577311	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+13	60	1763237359186348520	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+13	60	1763237359186348520	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+4	49	1763238158712107324	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+4	49	1763238158712107324	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	56	1763239279646555883	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	56	1763239279646555883	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+6	67	1763239877611075958	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+6	67	1763239877611075958	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+12	59	1763241598455761659	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+12	59	1763241598455761659	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+13	59	1763242692120267186	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+13	59	1763242692120267186	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+7	53	1763242919083152037	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+7	53	1763242919083152037	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	51	1763243057446434465	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+5	51	1763243057446434465	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+9	56	1763244542933525072	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+9	56	1763244542933525072	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+4	69	1763244756518781040	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+4	69	1763244756518781040	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+8	53	1763246107072833600	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+8	53	1763246107072833600	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+4	51	1763246694113141794	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+4	51	1763246694113141794	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+9	58	1763247357383264049	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac
+9	58	1763247357383264049	/Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	af7b0f7a4ae535ac

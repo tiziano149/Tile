@@ -1,0 +1,11 @@
+Command: /Users/tizianoerlichman/.espressif/python_env/idf5.5_py3.12_env/bin/python /Users/tizianoerlichman/esp/v5.5.1/esp-idf/tools/idf_monitor.py -p /dev/tty.usbmodem1101 -b 115200 --toolchain-prefix riscv32-esp-elf- --target esp32c6 --revision 0 --decode-panic backtrace /Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/green.elf /Users/tizianoerlichman/Library/Mobile Documents/com~apple~CloudDocs/ESP32C6/esp-zigbee-sdk/examples/esp_zigbee_greenpower/esp_zigbee_gpd/build/bootloader/bootloader.elf -m '/Users/tizianoerlichman/.espressif/python_env/idf5.5_py3.12_env/bin/python' '/Users/tizianoerlichman/esp/v5.5.1/esp-idf/tools/idf.py' '-p' '/dev/tty.usbmodem1101'
+[0;33m--- Warning: Serial ports accessed as /dev/tty.* will hang gdb if launched.[0m
+[0;33m--- Using /dev/cu.usbmodem1101 instead...[0m
+[0;33m--- esp-idf-monitor 1.8.0 on /dev/cu.usbmodem1101 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0;33m--- Connection to /dev/cu.usbmodem1101 failed. Available ports:
+--- /dev/cu.debug-console
+--- /dev/cu.D11-EB24040679
+--- /dev/cu.usbmodem1101
+--- /dev/cu.usbmodemDE27066711[0m
+[0m
